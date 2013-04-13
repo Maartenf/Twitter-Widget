@@ -1,0 +1,39 @@
+/* Bestand: style.css 
+   Beschrijving: Stylesheet voor de twitterbalk. */
+#twitterbalk .tweet {
+	width: 390px;
+	background-color: #ebebeb;
+	padding: 5px 10px 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 3px #ccc;
+	font: 10pt arial;
+	color: #666;
+	text-shadow: 0px 0px 1px white;
+}
+#twitterbalk .tweet img {
+	float: left;
+	border: 1px solid #ccc;
+	margin: 0;
+	width: 30px;
+	height: 30px;
+}
+#twitterbalk .tweet span.bericht {
+	padding-left: 5px;
+}
+#twitterbalk .tweet span.bericht a {
+	padding-left: 5px;
+	color: #3366cc;
+	text-decoration: none;
+}
+#twitterbalk .tweet span.bericht a:hover {
+	text-decoration: underline;
+}
+#twitterbalk .tweet span.datum {
+	float: right;
+	line-height: 25px;
+	color: #666;
+	font-size: 8pt;
+	font-style: italic;
+}
