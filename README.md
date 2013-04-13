@@ -1,7 +1,7 @@
 Twitter-Widget - https://github.com/Maartenf/Twitter-Widget
 ==============
 
-In deze groep werken we aan een Twitter widget.
+In deze repository werken we aan een Twitter widget.
 
 ==============
 
